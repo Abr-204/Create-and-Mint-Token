@@ -31,6 +31,9 @@ After executing these steps you will now be able to use the program. You can che
 You will be looking at the decoded output variable to see the value of the total supply variable.
 You can use the mint, transfer, and burn functions by placing an address, and an unsigned integer value as value in the function then clicking the transact button. However, only the owner can use the mint function.
 
+![Screenshot (11)](https://github.com/Abr-204/Create-and-Mint-Token/assets/160641018/bc841ec6-68cb-4774-be3c-fd136b11c7a0)
+
+https://github.com/Abr-204/Create-and-Mint-Token
 
 ## Help
 
@@ -41,9 +44,9 @@ You can use different accounts by expanding the account section under deploy and
 
 ## Authors
 
-Nichole Anne Marie J. Avañez (avanez.nichole@gmail.com)
-
+Abhay Rana
+[@Abhay](https://www.linkedin.com/in/abhay-rana-0a25a6227/)
 
 ## License
 
-This project is licensed under the Nichole Anne Marie J. Avañez License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
